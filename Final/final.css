@@ -36,6 +36,16 @@
     transform: rotateY(180deg);
 }
 
+.xbox .quadrant {
+    position: unset;
+    background: url(xbox-assets/quadrant.svgz);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
+
 .xbox .button {
     position: absolute;
     background: url(abxymod.png);
