@@ -167,6 +167,7 @@
     background: url(ps4-assets/sticks.svgz);
     height: 94px;
     width: 94px;
+z-index: 1000;
 }
 
 .ds4 .stick.pressed.left {
