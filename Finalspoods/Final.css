@@ -1,3 +1,4 @@
+/*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
     background: url(basemodspoods.png);
     height: 598px;
@@ -65,6 +66,18 @@
 .ds4 .bumper.right {
     float: right;
     transform: rotateY(180deg);
+}
+
+.ds4 .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
+.ds4 .touchpad.pressed {
+    background: url(ps4-assets/touchpad.svgz) no-repeat center;
 }
 
 .ds4 .meta {
@@ -184,4 +197,60 @@
 .ds4 .stick.right {
     top: calc(100% - 105px);
     left: calc(100% - 105px);
+}
+
+.ds4 .dpad {
+    position: absolute;
+    width: 125px;
+    height: 126px;
+    top: 181px;
+    left: 92px;
+}
+
+.ds4 .face {
+    background: url(ps4-assets/dpad.svgz);
+    position: absolute;
+}
+
+.ds4 .face.up, .ds4 .face.down {
+    width: 36px;
+    height: 52px;
+}
+
+.ds4 .face.left, .ds4 .face.right {
+    width: 52px;
+    height: 36px;
+}
+
+.ds4 .face.up {
+    left: 44px;
+    top: 0;
+    background-position: -37px 0px;
+}
+
+.ds4 .face.down {
+    left: 44px;
+    bottom: 0;
+    background-position: 0px 0;
+}
+
+.ds4 .face.left {
+    top: 45px;
+    left: 0;
+    background-position: 104px 0;
+}
+
+.ds4 .face.right {
+    top: 45px;
+    right: 0px;
+    background-position: 52px 0;
+}
+
+.ds4 .face.pressed {
+    /* margin-top: 5px; */
+    background-position-y: 52px;
+}
+
+.ds4.half {
+    margin-top: -300px;
 }
