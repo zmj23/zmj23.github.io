@@ -80,18 +80,6 @@
     background: url(ps4-assets/touchpad.svgz) no-repeat center;
 }
 
-.ds4 .meta {
-    width: 42px;
-    height: 42px;
-    position: absolute;
-    left: 382px;
-    bottom: 216px;
-}
-
-.ds4 .meta.pressed {
-    background: url(ps4-assets/meta.svgz) no-repeat center;
-}
-
 .ds4 .arrows {
     position: absolute;
     width: 352px;
@@ -208,7 +196,7 @@
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svgz);
+    background: url(dpadmod.png);
     position: absolute;
 }
 
