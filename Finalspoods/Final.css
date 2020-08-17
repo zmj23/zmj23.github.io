@@ -17,7 +17,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(ps4-assets/triggers.svgz);
+    background: url(triggers.svgz);
     opacity: 0;
 }
 
@@ -33,7 +33,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/bumper.svgz) no-repeat;
+    background: url(bumper.svgz) no-repeat;
     opacity: 0;
 }
 
@@ -69,7 +69,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(ps4-assets/touchpad.svgz) no-repeat center;
+    background: url(touchpad.svgz) no-repeat center;
 }
 
 .ds4 .arrows {
@@ -81,7 +81,7 @@
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(ps4-assets/start.svgz);
+    background: url(start.svgz);
     width: 28px;
     height: 46px;
     opacity: 0;
