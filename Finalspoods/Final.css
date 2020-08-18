@@ -51,7 +51,7 @@
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(start.svgz);
+    background: url(startmod.png);
     width: 28px;
     height: 46px;
     opacity: 0;
