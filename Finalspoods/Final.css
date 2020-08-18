@@ -17,7 +17,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggers.svgz);
+    background: url(triggersmod.png);
     opacity: 0;
 }
 
@@ -39,7 +39,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(touchpad.svgz) no-repeat center;
+    background: url(touchpadmod.png) no-repeat center;
 }
 
 .ds4 .arrows {
