@@ -61,7 +61,7 @@
 }
 
 .ds4 .touchpad {
-background: url(touchpadmod.gif);
+background: url(touchpadmod.gif) no-repeat center;
     width: 262px;
     height: 151px;
     position: absolute;
