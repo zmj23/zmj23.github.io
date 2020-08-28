@@ -1,4 +1,3 @@
-/*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
     background: url(basemodzach.gif);
     height: 630px;
@@ -90,7 +89,7 @@
     top: 239px;
     left: 144px;
 }
-
+	SD
 .xbox .stick {
     position: absolute;
     background: url(stickmod.png);
@@ -98,7 +97,6 @@
     height: 83px;
     width: 83px;
 }
-
 .xbox .stick.pressed {
     background-position: 0 0;
 }
