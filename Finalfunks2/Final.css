@@ -20,8 +20,8 @@
     position: absolute;
     width: 153px;
     height: 156px;
-    top: 194px;
-    left: 490px;
+    top: 192px;
+    left: 488px;
 }
 
 .xbox .button {
@@ -33,7 +33,7 @@
 
 .xbox .button.pressed {
     background-position-y: -48px;
-    margin-top: 5px;
+    margin-top: 0;
     opacity: 1;
 }
 
