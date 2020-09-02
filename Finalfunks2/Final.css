@@ -72,15 +72,3 @@ width: 83px;
 .xbox .stick.pressed {
     background-position: 0 0;
 }
-
-.xbox .stick.left {
-background: url(LSmod.png);
-    top: 0;
-    left: 0;
-}
-
-.xbox .stick.right {
-background: url(RSmod.png);
-    top: 113px;
-    left: 288px;
-}
