@@ -64,7 +64,7 @@ width: 83px;
 
 .xbox .stick.right {
 background: url(RSmod.png); 
-background-position: 0;
+background-position: -85px;
 height: 83px;
 width: 83px;
 }
