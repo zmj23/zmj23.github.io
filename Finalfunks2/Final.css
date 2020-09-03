@@ -86,3 +86,9 @@ width: 83px;
 .xbox .stick.pressed {
     background-position: 0 0;
 }
+
+.xbox .face {
+    background: url(dpadmod.png);
+    position: absolute;
+    opacity: 0;
+}
