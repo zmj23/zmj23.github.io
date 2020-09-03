@@ -6,6 +6,18 @@
         margin-top: -285px;*/
 }
 
+.xbox .trigger.left {
+background: url(LTmod.png);
+    float: left;
+    background-position: 0 0;
+}
+
+.xbox .trigger.right {
+background: url(RTmod.png);
+    float: right;
+    transform: rotateY(180deg);
+}
+
 .xbox .quadrant {
     position: unset;
     background: url(xbox-assets/quadrant.svgz);
