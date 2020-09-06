@@ -1,0 +1,13 @@
+.controller.xbox {
+    background: url(baseredtigermod.png);
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+.xbox .face {
+    background: url(dpadmod.png);
+    position: absolute;
+    opacity: 0;
+}
