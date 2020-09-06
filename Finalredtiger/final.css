@@ -5,6 +5,21 @@
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
+.xbox .quadrant {
+    position: unset;
+    background: url(xbox-assets/quadrant.svgz);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
+
+.xbox .button.pressed {
+    background-position-y: -48px;
+    margin-top: 0;
+    opacity: 1;
+}
 
 .xbox .face {
     background: url(dpadmod.png);
