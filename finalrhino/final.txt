@@ -58,6 +58,14 @@
     float: right;
     transform: rotateY(180deg);
 }
+.ds4 .touchpad {
+background: url(touchpadmod.gif) no-repeat center;
+    width: 262px;
+    height: 151px;
+    position: unset;
+    left: 272px;
+    top: 122px;
+}
 
 .ds4 .arrows {
     position: absolute;
