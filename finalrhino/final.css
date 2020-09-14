@@ -59,13 +59,6 @@
     transform: rotateY(180deg);
 }
 
-.ds4 .arrows {
-    position: absolute;
-    width: 352px;
-    height: 46px;
-    top: 142px;
-    left: 227px;
-}
 
 .ds4 .touchpad {
     background: url(touchpadmod.gif) no-repeat center;
@@ -79,7 +72,14 @@
     .ds4 .touchpad.pressed {
         background: url(touchpadmod.gif) no-repeat center;
     }
-    
+ 
+.ds4 .arrows {
+    position: absolute;
+    width: 352px;
+    height: 46px;
+    top: 142px;
+    left: 227px;
+}   
 .ds4 .back, .ds4 .start {
     background: url(startmod.png);
     width: 28px;
