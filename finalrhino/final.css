@@ -67,6 +67,19 @@
     left: 227px;
 }
 
+.ds4 .touchpad {
+    background: url(touchpadmod.gif) no-repeat center;
+        width: 262px;
+        height: 151px;
+        position: absolute;
+        left: 272px;
+        top: 122px;
+    }
+    
+    .ds4 .touchpad.pressed {
+        background: url(touchpadmod.gif) no-repeat center;
+    }
+    
 .ds4 .back, .ds4 .start {
     background: url(startmod.png);
     width: 28px;
