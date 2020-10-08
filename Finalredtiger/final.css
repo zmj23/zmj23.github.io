@@ -1,0 +1,45 @@
+.controller.xbox {
+    background: url(basetigermod.png);
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+.xbox .quadrant {
+    position: unset;
+    background: url(xbox-assets/quadrant.svgz);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
+
+.xbox .abxy {
+    position: absolute;
+    width: 153px;
+    height: 156px;
+    top: 198px;
+    left: 488px;
+}
+
+.xbox .button.pressed {
+    background-position-y: -48px;
+    margin-top: 0;
+    opacity: 1;
+}
+
+.xbox .dpad {
+    position: absolute;
+    width: 110px;
+    height: 111px;
+    top: 345px;
+    left: 223px;
+}
+
+.xbox .face {
+    background: url(dpadmod.png);
+    position: absolute;
+    opacity: 0;
+}
