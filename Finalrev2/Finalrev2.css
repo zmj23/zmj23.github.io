@@ -7,6 +7,13 @@
         margin-top: -285px;*/
 }
 
+.xbox .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(bumpermod.png);
+    opacity: 0;
+}
+
 .xbox .quadrant {
     position: unset;
     background: url(xbox-assets/quadrant.svgz);
