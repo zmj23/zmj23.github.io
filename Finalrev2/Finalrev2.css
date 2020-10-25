@@ -7,6 +7,13 @@
         margin-top: -285px;*/
 }
 
+.xbox .trigger {
+    width: 88px;
+    height: 121px;
+    background: url(triggermod.png);
+    opacity: 0;
+}
+
 .xbox .bumper {
     width: 170px;
     height: 61px;
