@@ -24,9 +24,17 @@
     height: 48px;
 }
 
+.xbox .back, .xbox .start {
+position: unset;
+    background: url(xbox-assets/start-select.svgz);
+    width: 33px;
+    height: 33px;
+    opacity: 0;
+}
+
 .xbox .button.pressed {
     background-position-y: -48px;
-    margin-top: 0px;
+    margin-top: 0;
     opacity: 1;
 }
 
