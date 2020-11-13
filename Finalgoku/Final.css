@@ -15,3 +15,9 @@
     left: 354px;
     z-index: 0;
 }
+
+.xbox .button.pressed {
+    background-position-y: -48px;
+    margin-top: 0;
+    opacity: 1;
+}
