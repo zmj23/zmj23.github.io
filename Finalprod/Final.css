@@ -4,6 +4,13 @@
     width: 750px;
 }
 
+.xbox .trigger {
+    width: 88px;
+    height: 121px;
+    background: url(triggermod.png);
+    opacity: 0;
+}
+
 .xbox .quadrant {
     position: unset;
     background: url(xbox-assets/quadrant.svgz);
