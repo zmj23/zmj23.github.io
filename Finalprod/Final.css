@@ -28,6 +28,13 @@
     z-index: 0;
 }
 
+.xbox .back, .xbox .start {
+    background: url(start-selectmod.png);
+    width: 33px;
+    height: 33px;
+    opacity: 0;
+}
+
 .xbox .abxy {
     position: absolute;
     width: 153px;
