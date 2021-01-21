@@ -1,8 +1,7 @@
 .controller.xbox {
-    background: url(basemodflynn.png);
+    background: url(basemodflynn.gif);
     height: 630px;
     width: 750px;
-opacity: 20;
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
