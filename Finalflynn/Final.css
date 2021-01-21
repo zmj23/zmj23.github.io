@@ -2,8 +2,16 @@
     background: url(basemodflynn.png);
     height: 630px;
     width: 750px;
+opacity: 20;
     /*    margin-left: -375px;
         margin-top: -285px;*/
+}
+
+.xbox .bumper {
+    width: 170px;
+    height: 61px;
+    background: url(bumpermod.png);
+    opacity: 0;
 }
 
 .xbox .quadrant {
