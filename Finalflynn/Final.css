@@ -87,6 +87,14 @@
     top: 7px;
 }
 
+.xbox .stick {
+    position: absolute;
+    background: url(stickmod.png);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+
 .xbox .button.pressed {
     background-position-y: -48px;
     margin-top: 0;
