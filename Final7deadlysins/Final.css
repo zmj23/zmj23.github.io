@@ -7,13 +7,7 @@
 }
 
 .xbox .quadrant {
-    position: unset;
-    background: url(Final7deadlysins/quadrant.svgz);
-    height: 45px;
-    width: 45px;
-    top: 258px;
-    left: 354px;
-    z-index: 0;
+   visibility: hidden
 }
 
 .xbox .button {
