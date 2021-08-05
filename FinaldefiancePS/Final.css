@@ -235,3 +235,15 @@ z-index: 1000;
 .ds4.half {
     margin-top: -300px;
 }
+
+.ds4 .meta {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 382px;
+    bottom: 216px;
+}
+
+.ds4 .meta.pressed {
+    background: url(meta.png) no-repeat center;
+}
