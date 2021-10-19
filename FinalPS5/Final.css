@@ -29,7 +29,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(https://i.imgur.com/DVqDSsJ.png);
+    background: url(abxymod.png);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -72,7 +72,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(https://i.imgur.com/hCmzXWK.png);
+    background: url(dpadmod.png);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -104,7 +104,7 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
-    background: url(https://i.imgur.com/2YssqRT.png);
+    background: url(bumpersmod.png);
     width: 110px;
     height: 35px;
     opacity: 0;
