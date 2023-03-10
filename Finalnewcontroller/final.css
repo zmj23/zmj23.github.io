@@ -5,3 +5,16 @@
     /*    margin-left: -403px;
         margin-top: -280px;*/
 }
+
+.ds4 .touchpad {
+background: url(touchpadmod.png) no-repeat center;
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
+.ds4 .touchpad.pressed {
+    background: url(touchpadmod.png) no-repeat center;
+}
